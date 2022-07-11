@@ -9,3 +9,5 @@ Each validation process begins when a Validator locates a Server in the network 
 The Validators are able to do this efficiently because they have the data on hand that they are serving, they already have the “answer” needed to properly assess the predicative responses they are recieving.
 
 ![logit/tokens](IntelligencePath.png)
+
+test tesy test test

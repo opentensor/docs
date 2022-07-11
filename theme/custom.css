@@ -18,7 +18,7 @@ code, pre {
     font-weight: 400;
     font-size: 10px;
     line-height: 18px;
-    color: #333333;
+    color: #b74646;
 }
     
 
@@ -27,9 +27,9 @@ h1 {
     font-family: 'Lato', sans-serif;
     font-style: normal;
     font-weight: 600;
-    font-size: 12px;
+    font-size: 72px;
     line-height: 18px;
-    color: #333333;
+    color: #8f2020;
     
 }
 
@@ -49,7 +49,7 @@ h3 {
     font-weight: 400;
     font-size: 12px;
     line-height: 18px;
-    color: #333333; 
+    color: #c60e0e; 
 }
 
 h4 {
@@ -58,7 +58,7 @@ h4 {
     font-weight: 400;
     font-size: 12px;
     line-height: 18px;
-    color: #333333;
+    color: #c90606;
 }
 
 p {
@@ -67,7 +67,7 @@ p {
     font-weight: 400;
     font-size: 12px;
     line-height: 18px;
-    color: #333333;
+    color: #d53434;
 }
 
 li {
@@ -76,7 +76,7 @@ li {
     font-weight: 400;
     font-size: 12px;
     line-height: 18px;
-    color: #333333;
+    color: #c43030;
 }
 
 .chapter li.chapter-item {
@@ -85,13 +85,13 @@ li {
     font-weight: 400;
     font-size: 12px;
     line-height: 18px;
-    color: #333333;
+    color: #a52525;
 }
 
 
 .chapter li.part-title {
     font-family: 'Lato', sans-serif;
-    color: #333333;
+    color: #791818;
     font-size: 12px;
     font-weight: 600;
     line-height: 18px;
@@ -101,9 +101,8 @@ li {
 }
 
 .light {
-    --sidebar-bg:#ffffff;
-    --sidebar-fg:  #333333;
-    --sidebar-active: #d3d3d3;
-    --fg: #333333;
+    --sidebar-bg:#eb1919;
+    --sidebar-fg:  #df3939;
+    --sidebar-active: #e93030;
+    --fg: #ea1d1d;
 }
-

@@ -12,7 +12,7 @@ This section will guide you through the basic steps necessary to start a miner a
 
 Connecting to a hardware service VPS will be necessary for many users, as will procuring a process manager software to ensure your miner stays online consistently.
 
-
+lkfnwklnlfwrr ejenjn
 ## Installation
 
 
